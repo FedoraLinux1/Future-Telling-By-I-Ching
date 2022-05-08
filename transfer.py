@@ -2,7 +2,7 @@
 import random
 import numpy
 from change import Hexagram as Hex
-from iching import IChing as IC
+from i_ching import IChing as IC
 
 class Transfer():
 
